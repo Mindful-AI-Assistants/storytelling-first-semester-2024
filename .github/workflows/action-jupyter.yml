@@ -20,3 +20,4 @@ jobs:
 steps:
   # Checks-out your repository under $GITHUB__WORKSPACE, so your job can access it
   - id: repo
+    name: Repo Checkout
