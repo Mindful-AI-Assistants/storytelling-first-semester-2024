@@ -31,4 +31,5 @@ steps:
        cache: 'pip'
     - run: pip install -r requirements.txt
 
-   - id: jupyter    
+   - id: jupyter 
+    name: Jupyter Notebook Execution
