@@ -33,4 +33,4 @@ steps:
 
    - id: jupyter 
     name: Jupyter Notebook Execution
-    run: jupyter execute Netflix_Data_Analysis. ipynb
+    run: jupyter execute storytelling.ipynb
