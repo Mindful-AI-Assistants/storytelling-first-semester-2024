@@ -34,3 +34,4 @@ steps:
    - id: jupyter 
     name: Jupyter Notebook Execution
     run: jupyter execute Storytelling.ipynb
+    shell: bash
