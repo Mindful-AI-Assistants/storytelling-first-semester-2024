@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: storytelling
+name: Storytelling
 
 # Controls when the workflow will run
 on:
@@ -37,8 +37,9 @@ steps:
     shell: bash
 
     - id:
-     uses: mr-smithers-excellent/docker-build-push@v6
-     with:
+    image: jredd2/netflix-python-data-app
+    uses: mr-smithers-excellent/docker-build-push@v6
+    with:
      registry: docker. io
      username: ${{secrets.DOCKER_USERNAME 3}}
      password: $1 secrets.DOCKER_PASSWORD 7}
