@@ -26,7 +26,7 @@ Here, you will find a variety of projects developed during the course. Each proj
 
 ## 🛠️ Resources
 
-This repository also contains links to the main libraries and platforms used during the course.
+This repository also contains links to the main libraries and platforms used during the course. These resources are essential for the development of our projects and to enhance our skills in data science and storytelling.
 
 
 #
