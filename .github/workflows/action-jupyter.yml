@@ -39,3 +39,4 @@ steps:
     - id:
      uses: mr-smithers-excellent/docker-build-push@v6
      with:
+     registry: docker. io
