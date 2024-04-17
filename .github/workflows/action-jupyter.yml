@@ -37,7 +37,7 @@ steps:
     shell: bash
 
     - id:
-    image: jredd2/netflix-python-data-app  -->
+    image: MindfulAI-Copilots-Bots/Storytelling-python-data-app  -->
     uses: mr-smithers-excellent/docker-build-push@v6
     with:
      registry: docker. io
