@@ -37,7 +37,7 @@ steps:
     shell: bash
 
     - id:
-    image: jredd2/netflix-python-data-app
+    image: jredd2/netflix-python-data-app  -->
     uses: mr-smithers-excellent/docker-build-push@v6
     with:
      registry: docker. io
