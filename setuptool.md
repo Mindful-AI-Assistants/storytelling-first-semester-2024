@@ -10,7 +10,7 @@ To set up the development environment for this project, you will need to install
 
 you can install it with the following command:
 
-    python3 -m pip install setuptool
+    python -m pip install --upgrade setuptools
 
 
 
