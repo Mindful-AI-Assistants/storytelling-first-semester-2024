@@ -10,9 +10,7 @@ To set up the development environment for this project, you will need to install
 
 you can install it with the following command:
 
-```bash
-python3 -m pip install setuptoolsbash
-python3 -m pip install setuptool
+    python3 -m pip install setuptool
 
 
 
