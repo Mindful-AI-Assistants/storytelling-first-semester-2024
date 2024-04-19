@@ -9,3 +9,11 @@ To set up the development environment for this project, you will need to install
 ### Setuptools Installation
 
 you can install it with the following command:
+
+```bash
+python3 -m pip install setuptools
+
+
+
+
+
