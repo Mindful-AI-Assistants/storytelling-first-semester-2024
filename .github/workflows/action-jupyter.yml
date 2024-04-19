@@ -41,5 +41,5 @@ steps:
     uses: mr-smithers-excellent/docker-build-push@v6
     with:
      registry: docker. io
-     username: ${{secrets.DOCKER_USERNAME 3}}
-     password: $1 secrets.DOCKER_PASSWORD 7}
+     username: ${{secrets.DOCKER_USERNAME }}
+     password: $1 secrets.DOCKER_PASSWORD }}
