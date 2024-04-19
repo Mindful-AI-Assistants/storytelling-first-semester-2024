@@ -8,7 +8,7 @@ jobs:
       contents: read
       issues: write
     steps:
-      - run: |
+      - run:|
           
     
 
