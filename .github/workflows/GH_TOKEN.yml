@@ -11,6 +11,8 @@ jobs:
     steps:
       - run:|
         gh issue --repo ${{ github.repository }} \
+        create --title "Issue title" --body "Issue body"
+         
             
       
           
