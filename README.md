@@ -33,6 +33,8 @@ This repository also contains links to the main libraries and platforms used dur
 Additionally, we provide files of books studied during the program.
 These readings complement our classroom learning and offer valuable insights into the art and science of storytelling.
 
+We hope you find this repository useful and inspiring in your journey of learning in data science 
+
 
 
 
