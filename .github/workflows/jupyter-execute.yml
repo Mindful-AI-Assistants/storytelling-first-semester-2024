@@ -1,0 +1,5 @@
+name: Executar Jupyter Notebook
+
+on:
+  push:
+    branches:
