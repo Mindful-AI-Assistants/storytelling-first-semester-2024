@@ -39,7 +39,8 @@ We hope you find this repository useful and inspiring in your journey of learnin
 
 Storytelling is the art of telling stories. In the context of Data Science and Artificial Intelligence, storytelling is a crucial skill that allows data scientists to effectively communicate their findings and insights in a way that is understandable and engaging to the target audience.
 
-- **Narrative**: The structure and flow of the story 
+- **Narrative**: The structure and flow of the story you are telling with your data.
+- **Data Visualization**: 
 
 
 
