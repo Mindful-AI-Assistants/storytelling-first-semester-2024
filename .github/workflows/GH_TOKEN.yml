@@ -3,4 +3,8 @@ on: workflow_dispatch
 
 jobs:
   open-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      
+
     
