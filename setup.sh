@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Flag definition
 org_id=""
 location="eastus"
