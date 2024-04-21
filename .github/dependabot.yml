@@ -10,7 +10,7 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/updater"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
     groups:
@@ -27,7 +27,7 @@ updates:
   - package-ecosystem: "composer"
     directory: "/composer/helpers/v1"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
     groups:
@@ -39,7 +39,7 @@ updates:
   - package-ecosystem: "composer"
     directory: "/composer/helpers/v2"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
     groups:
@@ -51,37 +51,37 @@ updates:
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "docker"
     directory: "/go_modules"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "gomod"
     directory: "/go_modules/helpers"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "mix"
     directory: "/hex/helpers"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "npm"
     directory: "/npm_and_yarn/helpers"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
     groups:
@@ -111,13 +111,13 @@ updates:
   - package-ecosystem: "pip"
     directory: "/python/helpers"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "16:00"
   - package-ecosystem: "pub"
     directory: "/pub/helpers"
     schedule:
-      interval: "weekly"
+      interval: "daily"
       day: "sunday"
       time: "14:00"
 
