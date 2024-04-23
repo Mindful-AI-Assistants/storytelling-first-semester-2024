@@ -1,12 +1,9 @@
-
-
+<!--
 ![storytelling header](https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/ffb7102e-aa45-4e6c-9ba9-79831094192d)
+-->
 
 
-
-
-
-<br><br> 
+<br>
 
 
 ## <p align="center">  🎭  STORYTELLING - University of Data Science and Artificial Intelligence PUC-SP
