@@ -59,7 +59,7 @@ If you're looking for more resources related to storytelling and data science, c
 
 ## 📖 Readings
 
-Additionally, we provide files of books studied during the program. 
+Additionally, we provide files of books studied during the program. These readings complement our classroom learning
 
 
 
