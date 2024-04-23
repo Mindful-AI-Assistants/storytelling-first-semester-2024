@@ -14,8 +14,7 @@
 
 Welcome to the Storytelling repository! This repository is dedicated to the Storytelling discipline taken in the 1st semester of 2024 in the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).These resources are essential for the development of our projects and to enhance our skills in data science and storytelling.
 
-The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills to tell effective stories with data. This is important because, while data analysis can reveal valuable insights, these insights are useless if they cannot be effectively communicated. Through storytelling, students learn to transform raw data into stories that inform, persuade, and ✨ inspire.
-
+We extend our sincere gratitude to Professor Rooney for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
 
 <br>
   
