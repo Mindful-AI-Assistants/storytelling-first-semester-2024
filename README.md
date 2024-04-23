@@ -30,8 +30,11 @@ The Storytelling discipline in the Data Science and Artificial Intelligence unde
    - ***Context***: The background information that helps frame and interpret the data.
    - ***Simplicity***: The ability to convey complex information in a simple and easy-to-understand manner.
 
-
 <br>
+
+## 📚 Projects
+
+Here, you will find a variety of projects developed during the course.
   
 
 
