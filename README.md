@@ -6,7 +6,7 @@
 <br>
 
 
-## <p align="center">  🎭  STORYTELLING - University of Data Science and Artificial Intelligence PUC-SP
+## <p align="center">  🎭  STORYTELLING - Data Science and Artificial Intelligence PUC-SP University 
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)    
 
