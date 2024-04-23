@@ -1,10 +1,7 @@
-
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/4f2d0093-1dc4-4509-936d-b2662374938d"/>
 
-
 <br>
-
 
 ## <p align="center">  🎭  STORYTELLING - Data Science and Artificial Intelligence PUC-SP University 
 
@@ -22,7 +19,7 @@ Storytelling is the art of telling stories, essential in Data Science and Artifi
 
 Through storytelling, students learn to transform raw data into stories that inform, persuade, and inspire. This is crucial because while data analysis can reveal valuable insights, these insights are useless if they cannot be effectively communicated.
 
-The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills 
+The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills to tell effective stories with data. Key storytelling concepts include:
 
 
 <br>
