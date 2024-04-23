@@ -34,7 +34,7 @@ The Storytelling discipline in the Data Science and Artificial Intelligence unde
 
 ## 📚 Projects
 
-Here, you will find a variety of projects developed during the course.
+Here, you will find a variety of projects developed during the course. ach project is an opportunity to explore and apply the concepts learned in the classroom, allowing us to tell powerful stories with data.
   
 
 
