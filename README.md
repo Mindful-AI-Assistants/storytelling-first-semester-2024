@@ -53,6 +53,10 @@ If you're looking for more resources related to storytelling and data science, c
 
 ✨ **Additional Resources**
 
+* [Articles on Effective Data Storytelling]()
+* [Tutorial on Data Visualization Techniques]()
+
+
 
 
 
