@@ -18,7 +18,7 @@ We extend our sincere gratitude to Professor Rooney for his invaluable guidance 
 
 <br>
   
-
+<!--
 ## 📚 Projects
 
 Here, you will find a variety of projects developed during the course. Each project is an opportunity to explore and apply the concepts learned in the classroom, allowing us to tell powerful stories with data.
@@ -45,7 +45,7 @@ Key storytelling concepts include:
   -  **Context**: The background information that helps frame and interpret the data.
   -  **Simplicity**: The ability to convey complex information in a simple and easy-to-understand manner.
 
-
+-->
 
 
 
