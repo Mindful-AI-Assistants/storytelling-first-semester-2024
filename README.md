@@ -25,37 +25,15 @@ The Storytelling discipline in the Data Science and Artificial Intelligence unde
 
 **Key Storytelling** concepts include:
 
-
-<br>
-  
-<!--
-## 📚 Projects
-
-Here, you will find a variety of projects developed during the course. Each project is an opportunity to explore and apply the concepts learned in the classroom, allowing us to tell powerful stories with data.
-
-## 🛠️ Resources
-
-This repository also contains links to the main libraries and platforms used during the course. These resources are essential for the development of our projects and to enhance our skills in data science and storytelling.
-
-## 📖 Readings
-
-Additionally, we provide files of books studied during the program.
-These readings complement our classroom learning and offer valuable insights into the art and science of storytelling.
-
-We hope you find this repository useful and inspiring in your journey of learning in data science and storytelling!
-
-## 📜 About Storytelling
-
-Storytelling is the art of telling stories. In the context of Data Science and Artificial Intelligence, storytelling is a crucial skill that allows data scientists to effectively communicate their findings and insights in a way that is understandable and engaging to the target audience.
-
-Key storytelling concepts include:
-
   -  **Narrative**: The structure and flow of the story you are telling with your data.
   -  **Data Visualization**: The graphical representation of data to highlight trends and patterns.
   -  **Context**: The background information that helps frame and interpret the data.
   -  **Simplicity**: The ability to convey complex information in a simple and easy-to-understand manner.
 
--->
+
+<br>
+  
+
 
 
 
