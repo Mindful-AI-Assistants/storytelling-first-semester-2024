@@ -57,6 +57,11 @@ If you're looking for more resources related to storytelling and data science, c
 * [Tutorial on Data Visualization Techniques]()
 
 
+## 📖 Readings
+
+Additionally, we provide files of books studied during the program. 
+
+
 
 
 
