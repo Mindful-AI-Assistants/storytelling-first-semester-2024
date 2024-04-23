@@ -38,7 +38,7 @@ Here, you will find a variety of projects developed during the course. ach proje
 
 Explore notable projects developed during the course. Each project is an opportunity to apply classroom concepts and create compelling data stories.
 
-   - ✨ Highlighted Projects
+   - 𖤐 Highlighted Projects
 
      - [project_1]()
      - [project_2]()
@@ -48,6 +48,11 @@ Explore notable projects developed during the course. Each project is an opportu
 ## 🛠️ Resources
 
 This repository also contains links to the main libraries and platforms used during the course, essential for the development of our projects and to enhance our skills in data science and storytelling.
+
+If you're looking for more resources related to storytelling and data science, check out the following:
+
+   - 𖤐 Additional Resources
+
 
 
 
