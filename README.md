@@ -42,9 +42,12 @@ Explore notable projects developed during the course. Each project is an opportu
 
      - [project_1]()
      - [project_2]()
-     
+    
+<br>     
   
+## 🛠️ Resources
 
+This repository also contains links to the main libraries and platforms used during the course,
 
 
 
