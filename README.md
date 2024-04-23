@@ -17,9 +17,11 @@ We extend our sincere gratitude to Professor [Rooney Ribeiro Albuquerque Coelho]
 
 Storytelling is the art of telling stories, essential in Data Science and Artificial Intelligence for effectively communicating findings and insights.
 
-Through storytelling, students learn to transform raw data into stories that inform, persuade, and inspire. This is crucial because while data analysis can reveal valuable insights, these insights are useless if they cannot be effectively communicated.
+Through Storytelling, students learn to transform raw data into stories that inform, persuade, and inspire. This is crucial because while data analysis can reveal valuable insights, these insights are useless if they cannot be effectively communicated.
 
-The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills to tell effective stories with data. Key storytelling concepts include:
+The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills to tell effective stories with data. 
+
+**Key Storytelling** concepts include:
 
 
 <br>
