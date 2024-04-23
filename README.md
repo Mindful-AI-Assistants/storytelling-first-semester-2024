@@ -18,7 +18,10 @@ We extend our sincere gratitude to Professor [Rooney Ribeiro Albuquerque Coelho]
 
 ## 📜 About Storytelling
 
-Storytelling is the art of telling stories, crucial in Data Science and Artificial Intelligence for effectively communicating findings and insights.
+Storytelling is the art of telling stories, essential in Data Science and Artificial Intelligence for effectively communicating findings and insights.
+
+Through storytelling, students learn to transform raw data into stories that inform, persuade, and inspire. This is crucial because while data analysis can reveal valuable insights, these insights are useless if they cannot be effectively communicated.
+
 
 <br>
   
