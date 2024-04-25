@@ -56,7 +56,7 @@ If you're looking for more resources related to storytelling and data science, c
 ✨ **Additional Resources**
 
 * [Articles on Effective Data Storytelling]()
-* [Tutorial on Data Visualization Techniques]()
+* [Tutorial on Data Visualization Techniques](https://github.com/MindfulAI-Copilots-Bots/Storytelling/tree/ec99377b481fef9139d16da4b6ecf00acdba3c61/Books)
 
 
 ## 📖 Readings
