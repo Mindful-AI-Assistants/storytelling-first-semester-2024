@@ -7,7 +7,7 @@
 <br>
 
 ## <p align="center">  🎭  STORYTELLING -
-Data Science and Artificial Intelligence PUC-SP University 
+## <p align="center"> **Data Science and Artificial Intelligence PUC-SP University** 
 
 
 <br> 
