@@ -63,11 +63,13 @@ If you're looking for more resources related to storytelling and data science, c
 
 Additionally, we provide files of books studied during the program. These readings complement our classroom learning into the art and science of storytelling.
 
-##### * [Storytelling with Data - Cole Nussbaumer Knaflic](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/dd4dbaa850276f11579ef20d7a1a37e634e00c67/Books/Storytelling%20with%20Data.pdf)
+#### * [Storytelling with Data - Cole Nussbaumer Knaflic](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/dd4dbaa850276f11579ef20d7a1a37e634e00c67/Books/Storytelling%20with%20Data.pdf) 
+<br> 
 
-##### * [Python Data Science Handbook_ Essential Tools for Working with Data - Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub) 
+#### * [Python Data Science Handbook_ Essential Tools for Working with Data - Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub) 
+<br> 
 
-###£# s/Storytelling/blob/34ae40472dbf596871f493922747fb784c41d869/Books/Intro_to_Python_Part_1.pdf)
+#### s/Storytelling/blob/34ae40472dbf596871f493922747fb784c41d869/Books/Intro_to_Python_Part_1.pdf)
 
 
 
