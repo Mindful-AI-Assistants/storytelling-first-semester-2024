@@ -7,10 +7,9 @@
 <br>
 
 ## <p align="center">  🎭  STORYTELLING 
-#### <p align="center"> **Data Science and Artificial Intelligence - PUC-SP University** </p>
+### <p align="center"> **Data Science and Artificial Intelligence - PUC-SP University** </p>
 
-
-<br> 
+<br><br>  
 
 Welcome to the Storytelling repository! This repository is dedicated to the Storytelling discipline taken in the 1st semester of 2024 in the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
