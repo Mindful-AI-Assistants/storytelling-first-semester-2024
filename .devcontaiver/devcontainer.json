@@ -33,3 +33,28 @@
 
 # Remote Shell Added
 "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
+
+
+
+## By wxw-matt
+## A feature to load and run remote shell scripts
+
+For additional information, see this Feature's documentation.
+
+Installation
+Copy and paste the following snippet into the features attribute of your devcontainer.json file.
+
+"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+Options
+Options allow for modification to the selected Feature. Omitting an option will fallback to the default value designated by the Feature.
+
+Options with a ... represent proposals and will accept a value other than the ones listed.
+
+script1
+The script 1.
+
+script2
+The script 2.
+
+script3
+The script 3.
