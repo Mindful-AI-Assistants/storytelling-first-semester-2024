@@ -63,6 +63,7 @@ If you're looking for more resources related to storytelling and data science, c
 
 Additionally, we provide files of books studied during the program. These readings complement our classroom learning into the art and science of storytelling.
 
+[Storytelling with Data by Cole Nussbaumer Knaflic]()
 
 
 ## 🐍Python Libraries
