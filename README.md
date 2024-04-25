@@ -65,7 +65,7 @@ Additionally, we provide files of books studied during the program. These readin
 
 [Storytelling with Data by Cole Nussbaumer Knaflic](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/dd4dbaa850276f11579ef20d7a1a37e634e00c67/Books/Storytelling%20with%20Data.pdf)
 
-Python Data Science Handbook_ Essential Tools for Working with Data by ake VanderPlas 
+[Python Data Science Handbook_ Essential Tools for Working with Data by Jake VanderPlas]() 
 
 
 ## 🐍Python Libraries
