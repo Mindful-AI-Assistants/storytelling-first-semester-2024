@@ -1,5 +1,7 @@
+<!--
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/4f2d0093-1dc4-4509-936d-b2662374938d"/>
+--> 
 
 <br>
 
