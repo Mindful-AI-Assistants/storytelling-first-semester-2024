@@ -67,7 +67,7 @@ Additionally, we provide files of books studied during the program. These readin
 
 [Python Data Science Handbook_ Essential Tools for Working with Data by Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub) 
 
-[Introduction to Python - Boston University]()
+[Introduction to Python Part 1 - Boston University]()
 
 
 
