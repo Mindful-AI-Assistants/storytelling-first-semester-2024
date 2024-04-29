@@ -88,11 +88,9 @@ Additionally, we provide files of books studied during the program. These readin
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
 #
- 
-###### <p align="center">[Copyright 2024 MindfulAI-Copilots-Bots. Code released under the  MIT license.](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/60115627d7739a442b7dff931a9ee5dfd6017c87/LICENSE.md)
-      
-https://github.com/Mindful-AI-Assistants/Storytelling/blob/a1525de2c6af690e03072dbe6afdc4a393c101f2/LICENSE
 
+###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/Storytelling/blob/a1525de2c6af690e03072dbe6afdc4a393c101f2/LICENSE)
+ 
 <!--
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)   
 
