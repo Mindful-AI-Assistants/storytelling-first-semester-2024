@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-title: Storytelling repository
+title: Fabiana Campanari repository
 message: If you really want to cite this repository, here's how you should cite it.
 type: software
-creators:
-  - Mindful-AI-Assistants
- repository-code: https://github.com/Mindful-AI-Assistants/Storytelling
+authors:
+  - given-names: Fabiana
+    family-names: Campanari
+repository-code: https://github.com/FabianaCampanari
 license: MIT License
