@@ -19,5 +19,5 @@
 
 Bem-vindo ao repositório de Storytelling! Este repositório é dedicado à disciplina de Storytelling realizada no 1º semestre de 2024 no curso de graduação em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP).
 
-Estendemos nossa sincera gratidão ao Professor Rooney Ribeiro Albuquerque Coelho por sua orientação inestimável e expertise ao longo deste curso.
+Extendemos nossa sincera gratidão ao Professor [Rooney Ribeiro Albuquerque Coelho]() por sua orientação inestimável e expertise ao longo deste curso.
 
