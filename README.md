@@ -89,6 +89,11 @@ Additionally, we provide files of books studied during the program. These readin
 
 #
 
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+<br>
+
+#
+
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/Mindful-AI-Assistants/Storytelling/blob/a1525de2c6af690e03072dbe6afdc4a393c101f2/LICENSE)
  
 <!--
