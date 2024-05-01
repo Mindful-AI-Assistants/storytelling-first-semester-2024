@@ -77,7 +77,7 @@ If you're looking for more resources related to storytelling and data science, c
 
 ✨ **Additional Resources**
 
-* [Articles on Effective Data Storytelling]()
+* [Articles on Effective Data Storytelling](https://github.com/Mindful-AI-Assistants/Storytelling/tree/8750f65cd78b86a9ae4db9b7746fb1ead47e97a9/Miscellaneous)
 * [Tutorial on Data Visualization Techniques](https://github.com/MindfulAI-Copilots-Bots/Storytelling/tree/ec99377b481fef9139d16da4b6ecf00acdba3c61/Books)
 * [Utilizing Pandas AI for Data Analysis - KDnuggets](https://www.kdnuggets.com/utilizing-pandas-ai-for-data-analysis)
 
