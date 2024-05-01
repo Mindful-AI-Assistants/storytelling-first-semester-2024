@@ -73,7 +73,7 @@ Explore notable projects developed during the course. Each project is an opportu
  - [class project_5]()
  - [class project_6]()
  - [class project_7]()
- - [class project_8]()
+- [class project_8]()
 
 <br>
 
@@ -81,6 +81,8 @@ Explore notable projects developed during the course. Each project is an opportu
 
    - [project_1]()
    - [project_2]()
+   - [project_3]()
+   - [project_4]()
     
 
 <br>     
