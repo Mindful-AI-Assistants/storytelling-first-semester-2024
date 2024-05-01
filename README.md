@@ -69,13 +69,9 @@ Additionally, we provide files of books studied during the program. These readin
 
 
 
-
 ## 🐍Python Libraries
 
 * Pandas
-
-
-
 
 
 
