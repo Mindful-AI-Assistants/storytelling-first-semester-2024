@@ -17,4 +17,6 @@
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 <br>
 
+Bem-vindo ao repositório de Storytelling! Este repositório é dedicado à disciplina de Storytelling realizada no 1º semestre de 2024 no curso de graduação em Ciência de Dados e Inteligência Artificial na Pontifícia Universidade Católica de São Paulo (PUC-SP).
+
 
