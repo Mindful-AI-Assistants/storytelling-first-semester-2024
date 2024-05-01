@@ -45,6 +45,8 @@ Through Storytelling, students learn to transform raw data into stories that inf
 
 The Storytelling discipline in the Data Science and Artificial Intelligence undergraduate program at PUC-SP aims to equip students with the necessary skills to tell effective stories with data. 
 
+<br>
+
 - **Key Storytelling** concepts include:
   
    - ***Narrative***: The structure and flow of the story you are telling with your data.
