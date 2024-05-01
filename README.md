@@ -13,6 +13,10 @@
 
 <br><br>  
 
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+<br>
+
+
 Welcome to the Storytelling repository! This repository is dedicated to the Storytelling discipline taken in the 1st semester of 2024 in the Data Science and Artificial Intelligence undergraduate program at the Pontifical Catholic University of São Paulo (PUC-SP).
 
 We extend our sincere gratitude to Professor [Rooney Ribeiro Albuquerque Coelho]() for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
