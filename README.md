@@ -49,10 +49,13 @@ The Storytelling discipline in the Data Science and Artificial Intelligence unde
 
 - **Key Storytelling** concepts include:
   
-   - ***Narrative***: The structure and flow of the story you are telling with your data.
-   - ***Data Visualization***: The graphical representation of data to highlight trends and patterns.
-   - ***Context***: The background information that helps frame and interpret the data.
-   - ***Simplicity***: The ability to convey complex information in a simple and easy-to-understand manner.
+   - ***Narrative***: The structure and flow of the story you are telling with your data. <br>
+     
+   - ***Data Visualization***: The graphical representation of data to highlight trends and patterns. <br>
+     
+   - ***Context***: The background information that helps frame and interpret the data .<br>
+     
+   - ***Simplicity***: The ability to convey complex information in a simple and easy-to-understand manner. <br>
 
 <br>
 
