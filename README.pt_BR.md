@@ -7,4 +7,8 @@
 -->
 ![Storytelling](https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/0f827a6e-5e03-42d7-b8bb-c11ba2f029e0)
 
-<br>
+<br> 
+
+<p align=“center”> 🎭 STORYTELLING
+<p align=“center”> para Ciência de Dados e Inteligência Artificial - Universidade PUC-SP </p>
+
