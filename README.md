@@ -102,8 +102,10 @@ If you're looking for more resources related to storytelling and data science, c
 
 ✨ **Additional Resources**
 
-* [Articles on Effective Data Storytelling](https://github.com/Mindful-AI-Assistants/Storytelling/tree/8750f65cd78b86a9ae4db9b7746fb1ead47e97a9/Miscellaneous)
-* [Tutorial on Data Visualization Techniques](https://github.com/Mindful-AI-Assistants/Storytelling/tree/d034c09224632332a89c0aef0ec77f7dccc5a5a4/Tutorials)
+* [Articles on Effective Data Storytelling](https://github.com/Mindful-AI-Assistants/Storytelling/tree/8750f65cd78b86a9ae4db9b7746fb1ead47e97a9/Miscellaneous) <br>
+  
+* [Tutorial on Data Visualization Techniques](https://github.com/Mindful-AI-Assistants/Storytelling/tree/d034c09224632332a89c0aef0ec77f7dccc5a5a4/Tutorials) <br>
+  
 * [Utilizing Pandas AI for Data Analysis - KDnuggets](https://www.kdnuggets.com/utilizing-pandas-ai-for-data-analysis)
 
 <br>
