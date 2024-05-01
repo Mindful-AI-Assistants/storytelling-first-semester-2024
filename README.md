@@ -62,11 +62,16 @@ Here, you will find a variety of projects developed during the course. ach proje
 
 Explore notable projects developed during the course. Each project is an opportunity to apply classroom concepts and create compelling data stories.
 
+✨ **Class Projects**
+
+
+
 ✨ **Highlighted Projects**
 
    - [project_1]()
    - [project_2]()
     
+
 <br>     
   
 ## 🛠️ Resources
