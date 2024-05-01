@@ -66,7 +66,12 @@ Explore notable projects developed during the course. Each project is an opportu
 
 ✨ **Class Projects**
 
+ - [class project_1]()
+ - [class project_2]()
+ - [class project_3]()
+ - [class project 4]()
 
+<br>
 
 ✨ **Highlighted Projects**
 
