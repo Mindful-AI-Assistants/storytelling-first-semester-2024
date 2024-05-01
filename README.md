@@ -48,6 +48,8 @@ The Storytelling discipline in the Data Science and Artificial Intelligence unde
 <br>
 
 - **Key Storytelling** concepts include:
+
+  <br>
   
    - ***Narrative***: The structure and flow of the story you are telling with your data. <br>
      
