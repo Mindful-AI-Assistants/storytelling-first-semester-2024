@@ -21,10 +21,14 @@ Welcome to the Storytelling repository! This repository is dedicated to the Stor
 
 We extend our sincere gratitude to Professor [Rooney Ribeiro Albuquerque Coelho]() for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
 
-#
 
 
 ## 📊 Table of Contents
+
+* About
+* Projects
+* Resources
+
 
 
 
