@@ -73,7 +73,7 @@ Explore notable projects developed during the course. Each project is an opportu
 
  - [class project_1]()
  - [class project_2]()
- - [class project_3]()
+ - [class project_3 - Analyzing public safety data]()
  - [class project 4]()
  - [class project_5]()
  - [class project_6]()
