@@ -119,7 +119,9 @@ If you're looking for more resources related to storytelling and data science, c
 
 * [AI & Machine Learning for Data Sciense Community](https://www.kaggle.com/)
 
-* [Gamma AI]()
+* [Gamma AI](https://gamma.app/)
+
+* [Streamlit](https://share.streamlit.io/)
 
 <br>
 
