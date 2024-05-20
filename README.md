@@ -74,6 +74,7 @@ Explore notable projects developed during the course. Each project is an opportu
  - [class project_1]()
  - [class project_2]()
  - [class project_3 -  Public Safety Data Analyze](https://drive.google.com/file/d/1zqs2ZoodY6boymdOUnETgQxHwyZ2Eok7/view?usp=sharing)
+ - https://github.com/Mindful-AI-Assistants/Storytelling/blob/1e5d99a25553d459327270fdea2b2bf6676e417e/project_3/heat_Map_Folium/project3_heatMapFolium.html
  - [class project 4]()
  - [class project_5]()
  - [class project_6]()
