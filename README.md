@@ -86,7 +86,7 @@ Explore notable projects developed during the course. Each project is an opportu
 
    - [project_1 - Python Code Analyzes](https://github.com/Mindful-AI-Assistants/Storytelling/blob/9eb284f17c386933aed336fd5da84121639f440b/project_1/project_1.ipynb)
    - [project_2 -0 Graphics Matplotlib](https://github.com/Mindful-AI-Assistants/Storytelling/tree/f9cbcfc9190b0ea63eb520df4eea3381799ae19d/project_2/1_Codes)
-   - [project_3]()
+   - [project_3 - Dataset Alnalyze by Region]()
    - [project_3 - Public Safety Data Analyze - Heat Map](https://github.com/Mindful-AI-Assistants/Storytelling/blob/1b8b2cb185001e09d74442a5f2c49469e12de2fd/project_3/heat_Map_Folium/project3_heatMapFolium.html)
    - [project_4]()
     
