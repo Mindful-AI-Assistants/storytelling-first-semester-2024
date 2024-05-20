@@ -117,6 +117,8 @@ If you're looking for more resources related to storytelling and data science, c
   
 * [Utilizing Pandas AI for Data Analysis - KDnuggets](https://www.kdnuggets.com/utilizing-pandas-ai-for-data-analysis)
 
+* [AI & Machine learniong for Data Sciense Community](https://www.kaggle.com/)
+
 <br>
 
 ## 📖 Readings
