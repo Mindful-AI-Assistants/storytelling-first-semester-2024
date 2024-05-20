@@ -72,10 +72,9 @@ Explore notable projects developed during the course. Each project is an opportu
 ✨ **Class Projects**
 
  - [class project_1 - Python Code Analyze Dataset]()
- - [class project_2 -  Graphics Matplotlib]()
- - [class_3 - Dtaset Alnalyze by Region]()
- - [class project_3 -  Heat Map](https://github.com/Mindful-AI-Assistants/Storytelling/blob/1e5d99a25553d459327270fdea2b2bf6676e417e/project_3/heat_Map_Folium/project3_heatMapFolium.html)
- - [class project 4]()
+ - [class project_2 -  Graphics using Matplotlib]()
+ - [class_3 - Dataset Alnalyze by Region]()
+ - [class project_3 -  Heat Map]
  - [class project_5]()
  - [class project_6]()
  - [class project_7]()
