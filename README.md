@@ -76,7 +76,7 @@ Explore notable projects developed during the course. Each project is an opportu
  - [class project_1 - Python Code Analyze Dataset]()
  - [class project_2 -  Graphics using Matplotlib]()
  - [class project_3 - Analyzing Public Safety Data by Region]()
- - [class project_3 -  Public Safety Data Folium Heat Map]()
+ - [class project_3 -  Public Safety Data Folium Heat Map Analyze]()
  - [class project_5]()
  - [class project_6]()
  - [class project_7]()
