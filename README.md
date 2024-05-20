@@ -71,7 +71,7 @@ Explore notable projects developed during the course. Each project is an opportu
 
 ✨ **Class Projects**
 
- - [class project_1 - Python Code Analyze]()
+ - [class project_1 - Python Code Analyze Dataset]()
  - [class project_2 -  Graphics Matplotlib]()
  - [class project_3 -  Public Safety Data Analyze - Heat Map](https://github.com/Mindful-AI-Assistants/Storytelling/blob/1e5d99a25553d459327270fdea2b2bf6676e417e/project_3/heat_Map_Folium/project3_heatMapFolium.html)
  - [class project 4]()
