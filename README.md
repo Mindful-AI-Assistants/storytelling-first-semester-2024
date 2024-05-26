@@ -134,6 +134,8 @@ Additionally, we provide files of books studied during the program. These readin
 
 * [Automation of Systems and Processes Using Python](https://github.com/Mindful-AI-Assistants/Storytelling/blob/cf135e981ed57036af2449d3d9a2af3edfec4311/Miscellaneous/Automatizac%CC%A7a%CC%83o%20de%20Processos%20com%20Pyautogui.ipynb)
 
+* [Introdution to Protocol HTTP]()
+
 * [Introduction to Python - Boston Univerity](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/14c4d52c99f607fbf3376f4cc85a3dcbfe1807fe/Books/Intro_to_Python_Part_1.pdf) <br>
   
 * [Storytelling with Data - Cole Nussbaumer Knaflic](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/dd4dbaa850276f11579ef20d7a1a37e634e00c67/Books/Storytelling%20with%20Data.pdf) <br>
