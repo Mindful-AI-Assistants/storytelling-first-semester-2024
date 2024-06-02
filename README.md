@@ -140,7 +140,9 @@ Additionally, we provide files of books studied during the program. These readin
   
 * [Storytelling with Data - Cole Nussbaumer Knaflic](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/dd4dbaa850276f11579ef20d7a1a37e634e00c67/Books/Storytelling%20with%20Data.pdf) <br>
   
-* [Python Data Science Handbook, Essential Tools for Working with Data - Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub) 
+* [Python Data Science Handbook, Essential Tools for Working with Data - Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub)
+
+*  [- Scales to DeepMind Lab]()
 
 <br>
 
