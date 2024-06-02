@@ -142,7 +142,7 @@ Additionally, we provide files of books studied during the program. These readin
   
 * [Python Data Science Handbook, Essential Tools for Working with Data - Jake VanderPlas](https://github.com/MindfulAI-Copilots-Bots/Storytelling/blob/e4d0151f3d069f1d1bcefdf4e61579a12301051b/Books/Jake%20VanderPlas%20-%20Python%20Data%20Science%20Handbook_%20Essential%20Tools%20for%20Working%20with%20Data-O%E2%80%99Reilly%20Media%20(2016).epub)
 
-*  [- Scales to DeepMind Lab](https://github.com/Mindful-AI-Assistants/Storytelling/blob/29668dee48b7475c8cbcf74307d3bc96fdf8ac8f/Tutorials/Vector%20Quantized%20Models%20for%20Planning.pdf)
+*  [Vector Quantized Predictive Models for Planning - Scales to DeepMind Lab](https://github.com/Mindful-AI-Assistants/Storytelling/blob/29668dee48b7475c8cbcf74307d3bc96fdf8ac8f/Tutorials/Vector%20Quantized%20Models%20for%20Planning.pdf)
 
 <br>
 
