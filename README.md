@@ -96,7 +96,7 @@ Explore notable projects developed during the course. Each project is an opportu
      
    - [project_3 -  Public Safety Data Folium Heat Map Analyze](https://github.com/Mindful-AI-Assistants/Storytelling/blob/1b8b2cb185001e09d74442a5f2c49469e12de2fd/project_3/heat_Map_Folium/project3_heatMapFolium.html)
      
-   - [project_4]()
+   - [project_4 - Diamond Valuation Prediction]()
     
 
 <br>     
